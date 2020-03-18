@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_221">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/arq-2.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/iri-0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/jena-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/jena-2.6.2-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/lucene-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/wstx-asl-3.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
