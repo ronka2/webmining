@@ -26,5 +26,11 @@
 	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/stax-api-1.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/wstx-asl-3.2.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/david/OneDrive - De Vinci/Cours A4/Info/WebDataminingSemantics/webmining/jar/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jsf">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jst.jsf"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
